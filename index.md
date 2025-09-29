@@ -6,8 +6,8 @@ layout: home
 author_profile: true
 ---
 ---
-SOC Automation & Log Intelligence
-A curated portfolio of security automation, centralized authentication, and log parsing strategies
+SOC Automation & Log Intelligence  
+*A curated portfolio of security automation, centralized authentication, and log parsing strategies
 
 Welcome to my portfolio — a collection of projects focused on:
 
