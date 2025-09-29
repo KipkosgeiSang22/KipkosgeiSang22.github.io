@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Joshua Sang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "SOC intern and systems administrator focused on log analysis, security automation, and centralized authentication."
+  location: "Nairobi, Kenya"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +71,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/KipkosgeiSang22"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
