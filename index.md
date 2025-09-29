@@ -6,14 +6,8 @@ layout: home
 author_profile: true
 ---
 ---
-layout: home
-title: "SOC Automation & Log Intelligence"
-excerpt: "A curated portfolio of security automation, centralized authentication, and log parsing strategies."
-header:
-  overlay_image: /assets/images/soc-banner.jpg
-  overlay_filter: 0.3
-  caption: "Built with precision. Validated against real-world logs."
----
+SOC Automation & Log Intelligence
+A curated portfolio of security automation, centralized authentication, and log parsing strategies
 
 Welcome to my portfolio — a collection of projects focused on:
 
