@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Joshua Sang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/linkedin.jpg"
   bio    : "SOC intern and systems administrator focused on log analysis, security automation, and centralized authentication."
   location: "Nairobi, Kenya"
   links:
