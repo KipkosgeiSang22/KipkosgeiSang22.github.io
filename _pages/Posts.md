@@ -1,7 +1,7 @@
 ---
 title: "Posts"
-layout: home
-permalink: /posts/
+layout: single
+
 ---
 
 # 📝 Technical Posts
