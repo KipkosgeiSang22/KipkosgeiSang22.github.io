@@ -10,7 +10,7 @@ author_profile: true
 A curated portfolio of security automation, centralized authentication, and log parsing strategies
 
 Welcome to my portfolio — a collection of projects focused on:
-·  🧪 **SIEM Input Health Checks**
+-  🧪 **SIEM Input Health Checks**
 Automated verification of SIEM inputs to ensure continuous log transmission and system visibility. 
 - 🛂 **Centralized Authentication**
 Implemented LDAP and Active Directory for secure, centralized user authentication and access control.
