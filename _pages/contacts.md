@@ -2,7 +2,7 @@
 ---
 title: "Contact"
 layout: single
-permalink: /contact/
+permalink: /contacts/
 ---
 
 ## 📞 Get in Touch
