@@ -10,14 +10,18 @@ author_profile: true
 A curated portfolio of security automation, centralized authentication, and log parsing strategies
 
 Welcome to my portfolio — a collection of projects focused on:
-
-- 🔐 ****Automated SIEM events collection** ** using python and graylog API, used in SOC environments
-- 🔐 ****Automated SIEM inputs check** ** for checking if iputs are sending logs
-- 🔐 **Centralized Authentication** using LDAP and Active Directory
-- 📊 **website knwon as Fashionhouse254**using python and django framework
-- ⚙️ **Security Automation** in SOC environments
-- 🧠 **Data Science Foundations** with Python and web scraping
-- 🧠 **Power BI** WPowerBI Desktop
+·  🧪 **SIEM Input Health Checks**
+Automated verification of SIEM inputs to ensure continuous log transmission and system visibility. 
+🛂 **Centralized Authentication**
+Implemented LDAP and Active Directory for secure, centralized user authentication and access control.
+🛍️** Fashionhouse254 Website**
+Built a dynamic fashion e-commerce platform using Python and the Django framework.
+🤖 **Security Automation**
+Designed and deployed automated workflows to enhance SOC efficiency and incident response.
+📈 **Data Science Foundations**
+Applied Python for data analysis, including web scraping and preprocessing for actionable insights.
+📊 **Power BI Reporting**
+Created interactive dashboards using Power BI Desktop for data visualization and SOC reporting.
 
 Each project is designed with modularity, auditability, and scalability in mind. Whether you're a fellow analyst, engineer, or curious learner, I hope these resources help you build smarter, more secure systems.
 
