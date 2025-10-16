@@ -6,27 +6,18 @@ layout: single
 author_profile: true
 ---
 ---
-**SOC Automation & Log Intelligence**  
-A curated portfolio of security automation, centralized authentication, and log parsing strategies
+---
+title: "Welcome"
+layout: splash
+permalink: /
+---
 
-Welcome to my portfolio — a collection of projects focused on:
-- 🧪 **SIEM Input Health Checks**  
-  Automated verification of SIEM inputs to ensure continuous log transmission and system visibility.
-  
-- 🛂 **Centralized Authentication**  
-  Implemented LDAP and Active Directory for secure, centralized user authentication and access control.
 
-- 🛍️ **Fashionhouse254 Website**  
-  Built a dynamic fashion e-commerce platform using Python and the Django framework.
+# Joshua — SOC Intern & Data Analyst  
+**Building secure systems and insightful dashboards.**
 
-- 🤖 **Security Automation**  
-  Designed and deployed automated workflows to enhance SOC efficiency and incident response.
+Welcome to my portfolio. I specialize in log analysis, security automation, and centralized authentication. Explore my projects, lab challenges, and resume to learn more.
 
-- 📈 **Data Science Foundations**  
-  Applied Python for data analysis, including web scraping and preprocessing for actionable insights.
-
-- 📊 **Power BI Reporting**  
-  Created interactive dashboards using Power BI Desktop for data visualization and SOC reporting.
 Each project is designed with modularity, auditability, and scalability in mind. Whether you're a fellow analyst, engineer, or curious learner, I hope these resources help you build smarter, more secure systems.
 
 Explore the sections below or dive into the [Projects](/projects/) page to see detailed write-ups and code samples.
