@@ -7,14 +7,17 @@ author_profile: true
 ---
 ---
 **SOC Automation & Log Intelligence**  
-*A curated portfolio of security automation, centralized authentication, and log parsing strategies
+A curated portfolio of security automation, centralized authentication, and log parsing strategies
 
 Welcome to my portfolio — a collection of projects focused on:
 
+- 🔐 ****Automated SIEM events collection** ** using python and graylog API, used in SOC environments
+- 🔐 ****Automated SIEM inputs check** ** for checking if iputs are sending logs
 - 🔐 **Centralized Authentication** using LDAP and Active Directory
-- 📊 **Log Parsing & Grok Extractors** for audit and compliance
+- 📊 **website knwon as Fashionhouse254**using python and django framework
 - ⚙️ **Security Automation** in SOC environments
 - 🧠 **Data Science Foundations** with Python and web scraping
+- 🧠 **Power BI** WPowerBI Desktop
 
 Each project is designed with modularity, auditability, and scalability in mind. Whether you're a fellow analyst, engineer, or curious learner, I hope these resources help you build smarter, more secure systems.
 
