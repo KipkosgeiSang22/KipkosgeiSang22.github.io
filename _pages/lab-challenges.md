@@ -4,7 +4,7 @@ layout: single
 permalink: /lab-challenges/
 ---
 
-## 🔍 Challenge: Log Injection Detection
+## 🔍 Challenge: Log Injection Detection 
 
 **Problem Statement:** Detect and mitigate log injection attempts in a simulated SOC environment.  
 **Approach:** Used regex filters and Python scripts to parse suspicious entries.  
