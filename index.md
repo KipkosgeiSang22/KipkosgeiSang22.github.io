@@ -6,11 +6,7 @@ layout: single
 author_profile: true
 ---
 ---
----
-title: "Contact"
-layout: single
-permalink: /contact/
----
+
 
 
 
