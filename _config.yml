@@ -1,54 +1,31 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# This config file contains site-wide settings for your portfolio.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Portfolio
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+email: jsang542@gmail.com
+description: >-
+  SOC Analyst and Software Engineering student passionate about log analysis,
+  security automation, and centralized authentication. This portfolio showcases
+  projects, documentation, and technical achievements.
+
+twitter_username: jsang542
+github_username: KipkosgeiSang22
 minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -57,42 +34,41 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author profile
 author:
-  name   : "Joshua Sang"
-  avatar : "/assets/images/linkedin.jpg"
-  bio    : "SOC intern and data analyst passionate about log analysis, security automation, and centralized authentication"
+  name: "Joshua Sang"
+  avatar: "/assets/images/linkedin.jpg"
+  bio: "SOC intern and data analyst passionate about log analysis, security automation, and centralized authentication"
   location: "Nairobi, Kenya"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kipkosgeisang22.github.io"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
-   - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/KipkosgeiSang22"
-
-   - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
-     url: "https://instagram.com/"
-
-
- 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KipkosgeiSang22"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://x.com/jsang542?t=YREs4HlPRbcLwj1deqWs_Q&s=09"
+      url: "https://instagram.com/"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+254742120301"
 
+# Footer social links
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jsang542"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/KipkosgeiSang22"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+# Layout defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -103,7 +79,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
   - scope:
       path: "_pages"
       type: pages
@@ -111,9 +87,11 @@ defaults:
       layout: single
       author_profile: true
 
+# Archives
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
