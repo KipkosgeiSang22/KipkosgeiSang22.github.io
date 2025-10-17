@@ -4,7 +4,6 @@ layout: single
 permalink: /lab-challenges/
 ---
 
-## 🔍 Challenge: obfuscate and create a stanadlone executable file 
 
 ## 🔍 Challenge: Obfuscate and Create a Standalone Executable File
 
