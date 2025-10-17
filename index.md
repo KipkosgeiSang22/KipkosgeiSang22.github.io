@@ -7,10 +7,11 @@ author_profile: true
 ---
 ---
 ---
-title: "Welcome"
-layout: splash
-permalink: /
+title: "Contact"
+layout: single
+permalink: /contact/
 ---
+
 
 
 # Joshua — SOC Intern & Data Analyst  
