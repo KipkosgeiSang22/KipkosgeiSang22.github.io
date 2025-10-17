@@ -50,9 +50,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "Phone"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:+254742120301"
+
 
 # Footer social links
 footer:
