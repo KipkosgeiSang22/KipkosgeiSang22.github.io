@@ -30,4 +30,8 @@ The data was then split into training and test sets, and a linear regression mod
   🔗[Linera Regression starting project](https://colab.research.google.com/drive/1O7v4cCx4MTo8YjFYaQqgRzLcVi6GgABk?usp=sharing)
 
 
-  
+  ### **Wine Classification Models**  
+Built and compared six classification models (Logistic Regression, Decision Tree, Random Forest, KNN, Naive Bayes, SVM) to predict wine types based on chemical properties.  
+The dataset was preprocessed with scaling and split into training and test sets. Each model was evaluated using accuracy, classification reports, and confusion matrices.  
+Results were stored in a comparison table and visualized for performance analysis.  
+🔗 [Wine Classification Models Notebook](https://colab.research.google.com/drive/13QNZ54gps311_oM1RkaEy-Bof_pQc9fi?usp=sharing)
