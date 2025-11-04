@@ -23,10 +23,11 @@ permalink: /projects/
   Designed for SOC automation, academic reporting, and portfolio-grade presentation.  
   🔗 [GitHub Repository](https://github.com/KipkosgeiSang22/Graylog-Report-Automation.git)
 
-  - **Linera Regression starting project**  
-linear regression model to predict housing prices based on the area of the house.
-The dataset was explored to understand its structure and relationships, followed by data preparation to handle any missing values.
-The data was then split into training and test sets, and a linear regression model was built using Scikit-learn. The model's performance was evaluated using metrics such as MAE, MSE, RMSE, and R² Score, and the results were visualized with regression lines overlaid on the actual data points  
+### **Linear Regression Starting Project**  
+Built a linear regression model to predict housing prices based on the area of the house.  
+Explored the dataset to understand its structure and relationships, followed by data preparation to handle missing values.  
+Split the data into training and test sets, then trained a linear regression model using Scikit-learn.  
+Evaluated model performance using MAE, MSE, RMSE, and R² Score, and visualized results with regression lines overlaid on actual data points.  
   🔗[Linera Regression starting project](https://colab.research.google.com/drive/1O7v4cCx4MTo8YjFYaQqgRzLcVi6GgABk?usp=sharing)
 
 
