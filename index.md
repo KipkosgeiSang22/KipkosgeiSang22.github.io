@@ -3,9 +3,9 @@ layout: single
 author_profile: true
 ---
 
-## Hi, I'm Joshua 👋
+## 
 
-I'm a **Data & AI Engineer** and **SOC Analyst** finishing my BSc in Software Engineering at The Co-operative University of Kenya (graduating December 2026).
+I'm a **SOC Analyst** and **Data & AI Engineer** finishing my BSc in Software Engineering at The Co-operative University of Kenya (graduating December 2026).
 
 My work sits at the intersection of **machine learning and cybersecurity** — I build systems that detect threats automatically, so analysts can focus on what matters.
 
