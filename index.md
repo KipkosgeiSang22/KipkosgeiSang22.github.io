@@ -1,24 +1,27 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
 ---
+
+## Hi, I'm Joshua 👋
+
+I'm a **Data & AI Engineer** and **SOC Analyst** finishing my BSc in Software Engineering at The Co-operative University of Kenya (graduating December 2026).
+
+My work sits at the intersection of **machine learning and cybersecurity** — I build systems that detect threats automatically, so analysts can focus on what matters.
+
 ---
 
+### What I Do
 
+- 🔍 **Anomaly Detection** — built an unsupervised ML model (Isolation Forest) to flag suspicious SIEM log patterns in real time
+- 📊 **Data Analysis & Visualisation** — EDA, dashboards in Power BI and Tableau, end-to-end ML pipelines
+- 🔐 **Security Operations** — SIEM monitoring with Graylog, log pipeline configuration, daily threat reporting
+- 🤖 **Applied AI** — RAG systems, NLP with Transformers, deep learning, and MLOps
 
+---
 
-# Joshua — SOC Intern & Data Analyst  
-**Building secure systems and insightful dashboards.**
+### Explore
 
-Welcome to my portfolio. I specialize in log analysis, security automation, and centralized authentication. Explore my projects, lab challenges, and resume to learn more.
-
-Each project is designed with modularity, auditability, and scalability in mind. Whether you're a fellow analyst, engineer, or curious learner, I hope these resources help you build smarter, more secure systems.
-
-Explore the sections below or dive into the [Projects](/projects/) page to see detailed write-ups and code samples.
-
-
-
-
+- [**Resume**](/resume/) — experience, education, and skills
+- [**Projects**](/projects/) — featured projects including my SOC anomaly detector
+- [**Data & AI Portfolio**](/data-ai/) — all assignments from the Cybershujaa Data & AI Programme
