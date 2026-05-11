@@ -1,15 +1,10 @@
-# Welcome to Jekyll!
-# This config file contains site-wide settings for your portfolio.
-
 # Site settings
-title: Portfolio
+title: Joshua Sang – Data & AI Engineer
 email: jsang542@gmail.com
 description: >-
-  SOC Analyst and Software Engineering student passionate about log analysis,
-  security automation, and centralized authentication. This portfolio showcases
-  projects, documentation, and technical achievements.
+  Data & AI Engineer and SOC Analyst with hands-on experience in ML pipelines,
+  anomaly detection, and security operations. BSc Software Engineering (graduating Dec 2026).
 
-twitter_username: jsang542
 github_username: KipkosgeiSang22
 minimal_mistakes_skin: "neon"
 search: true
@@ -25,7 +20,6 @@ timezone: Africa/Nairobi
 include:
   - _pages
 
-# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -34,38 +28,29 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Author profile
 author:
-  name: "Joshua Sang"
-  avatar: "/assets/images/linkedin.jpg"
-  bio: "SOC intern and data analyst passionate about log analysis, security automation, and centralized authentication"
+  name: "Joshua Kipkosgei Sang"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Data & AI Engineer · SOC Analyst · BSc Software Engineering (graduating Dec 2026). Building intelligent systems from real-world security data."
   location: "Nairobi, Kenya"
+  email: "jsang542@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kipkosgeisang22.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KipkosgeiSang22"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jsang542@gmail.com"
+    - label: "Tableau"
+      icon: "fas fa-fw fa-chart-bar"
+      url: "https://public.tableau.com/app/profile/joshua.sang"
 
-
-# Footer social links
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jsang542"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KipkosgeiSang22"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
-# Layout defaults
 defaults:
   - scope:
       path: ""
@@ -74,9 +59,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
-      related: true
 
   - scope:
       path: "_pages"
@@ -85,7 +68,6 @@ defaults:
       layout: single
       author_profile: true
 
-# Archives
 category_archive:
   type: liquid
   path: /categories/
