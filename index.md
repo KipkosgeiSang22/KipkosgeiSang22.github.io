@@ -2,8 +2,7 @@
 layout: single
 author_profile: true
 ---
-
-##    
+ 
 
 I'm a **SOC Analyst** and **Data & AI Engineer** finishing my BSc in Software Engineering at The Co-operative University of Kenya (graduating December 2026).
 
