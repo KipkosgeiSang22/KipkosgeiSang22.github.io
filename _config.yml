@@ -1,8 +1,8 @@
 # Site settings
-title: Joshua Sang – Data & AI Engineer
+title: Joshua Sang – Security Data Engineer
 email: jsang542@gmail.com
 description: >-
-  Data & AI Engineer and SOC Analyst with hands-on experience in ML pipelines,
+  SOC Analyst and Data & AI Engineer with hands-on experience in ML pipelines,
   anomaly detection, and security operations. BSc Software Engineering (graduating Dec 2026).
 
 github_username: KipkosgeiSang22
@@ -31,7 +31,7 @@ plugins:
 author:
   name: "Joshua Kipkosgei Sang"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Data & AI Engineer · SOC Analyst · BSc Software Engineering (graduating Dec 2026). Building intelligent systems from real-world security data."
+  bio: "Security Data Engineer · SOC Analysis · SIEM Pipelines · ML Anomaly Detection"
   location: "Nairobi, Kenya"
   email: "jsang542@gmail.com"
   links:
