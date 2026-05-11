@@ -12,7 +12,9 @@ permalink: /resume/
 
 ## Objective
 
-Data & AI Engineer with hands-on experience in building ML pipelines and security operations. Passionate about developing intelligent, scalable systems that solve real-world problems through machine learning and data-driven decision making.
+SOC Analyst with hands-on experience in SIEM monitoring, log analysis, and anomaly detection. Passionate about
+protecting critical infrastructure through continuous monitoring, threat detection, and data-driven security
+operations. Currently completed a BSc. in Software Engineering, graduating December 2026.
 
 ---
 
