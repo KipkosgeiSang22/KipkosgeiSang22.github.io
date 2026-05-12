@@ -6,7 +6,7 @@ permalink: /resume/
 
 # Joshua Kipkosgei Sang
 📧 jsang542@gmail.com · 📱 0700535650 · 📍 Nairobi, Kenya  
-🔗 [GitHub](https://github.com/KipkosgeiSang22)
+
 
 ---
 
