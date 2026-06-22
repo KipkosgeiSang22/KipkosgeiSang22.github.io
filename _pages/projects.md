@@ -9,7 +9,7 @@ permalink: /projects/
 ### SOC Anomaly Detection System
 > Built after 6 months as a SOC Analyst + completing the Cybershujaa Data & AI Programme
 
-Working in a SOC, I saw first-hand how much analyst time was consumed reviewing thousands of SIEM log lines manually. I first automated report generation with a Graylog API script, then used that data foundation to build an unsupervised ML model that flags anomalies automatically.
+Working in a SOC environment, I noticed how repetitive manual log review can become at scale, which led me to build automation that handles report generation and uses an unsupervised ML model to flag anomalies automatically, freeing analysts to focus on real threats.
 
 **What it does:**
 - Uses **Isolation Forest** to detect anomalous patterns in server-generated SIEM logs
